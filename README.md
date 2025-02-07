@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Abd Elfatah!
 
-<!--
-**MohammedAbdElfatah0/MohammedAbdElfatah0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** at AIET, graduating in **July 2025**  
+🚀 **Flutter Developer** | Passionate about building mobile apps  
+🔭 Currently working on: [Character App](https://github.com/MohammedAbdElfatah0/character)  
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/mohamed-mohamed-abd-el-fatah-a276ab264/) | [GitHub](https://github.com/MohammedAbdElfatah0)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Dart  
+- **Frameworks & Tools:** Flutter, Firebase, Git, GitHub, REST APIs, BLoC  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAbdElfatah0&show_icons=true&theme=radical)
+
+---
+
+⭐ **Check out my repositories and give a star if you like them!** ⭐
