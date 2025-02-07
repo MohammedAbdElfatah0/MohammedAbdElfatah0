@@ -12,6 +12,4 @@
 ## 📊 GitHub Stats
 ![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAbdElfatah0&show_icons=true&theme=radical)
 
----
 
-⭐ **Check out my repositories and give a star if you like them!** ⭐
