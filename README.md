@@ -10,14 +10,17 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-mohamed-abd-el-fatah-a276ab264/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-mohamed-abd-elfatah-a276ab264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61558234016363" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:hamoabdelfatah611@gmail.com">
+  <a href="mailto:mohammedabdelfatah0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/201091428881" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
