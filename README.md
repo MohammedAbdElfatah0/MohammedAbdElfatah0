@@ -5,6 +5,9 @@
 - 💬 **Ask me about anything**  
 - 🎓 **Computer Engineering Student** at AIET (Graduating in July 2025)  
 - 🚀 **Flutter Developer** | Passionate about mobile app development    
+- 🧠 Experienced with state management in Flutter using BLoC and GetX  
+- 🧼 I care deeply about writing clean and maintainable code  
+- 🎮 Built Flutter apps integrating 3D models using `.glb` files  
 
 ---
 
@@ -34,6 +37,12 @@
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a> 
+  <a href="https://pub.dev/packages/get" target="_blank">
+    <img src="https://img.shields.io/badge/GetX-3DDC84?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX" />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a> 
@@ -54,5 +63,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MohammedAbdElfatah0&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-
