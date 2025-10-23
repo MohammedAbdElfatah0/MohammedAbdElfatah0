@@ -36,7 +36,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://mongoosejs.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest.js" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 </p>
 
