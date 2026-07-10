@@ -20,7 +20,7 @@
 
 > Building modern, responsive, and scalable Flutter apps with clean architecture and state management (BLoC & GetX).  
 > Experienced with REST API integration and UI/UX best practices.
-Experienced with Firebase, including Authentication, Firestore, and Firebase Cloud Messaging (FCM).
+> Experienced with Firebase, including Authentication, Firestore, and Firebase Cloud Messaging (FCM).
 
 ---
 
