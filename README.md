@@ -1,12 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohammed Mohammed Abd Elfatah</h1>
 <h3 align="center">💻 Junior Flutter & Backend Developer</h3>
 
-- 🎓 **Computer Engineering Student** (Graduating in July 2025)  
-- 🚀 building high-quality mobile apps and backend systems  
-- 🧠 Skilled in Flutter and Node.js backend development  
-- 🧼 I care deeply about writing clean, scalable, and maintainable code  
-- 💬 **Ask me about anything!**  
-
+- 🎓 **Computer Engineering** (Graduated in July 2025)  
+-  building high-quality mobile apps and backend systems  
+-  Skilled in Flutter and Node.js backend development  
+-  I care deeply about writing clean, scalable, and maintainable code  
+ 
 ---
 
 ## 🦋 Flutter Development
@@ -20,7 +19,8 @@
 </p>
 
 > Building modern, responsive, and scalable Flutter apps with clean architecture and state management (BLoC & GetX).  
-> Experienced with REST API integration, Firebase, and UI/UX best practices.
+> Experienced with REST API integration and UI/UX best practices.
+Experienced with Firebase, including Authentication, Firestore, and Firebase Cloud Messaging (FCM).
 
 ---
 
